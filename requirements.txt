@@ -1,0 +1,6 @@
+pandas
+numpy
+pymorphy3
+pymorphy3-dicts-ru
+sentence-transformers
+streamlit
